@@ -5,7 +5,7 @@ Final Project for UC Berkeley's MUSIC 158: Musical Applications of Computers and
 
 #Getting Started
 
-Clone the folder. Open the `final.maxpatch` and set to presentation mode.
+Clone the folder. Open the `final_board.maxpatch` and set to presentation mode.
 
 
 #About
