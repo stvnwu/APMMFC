@@ -11,7 +11,7 @@ This is a 4x4 button sequencer that handles duration of button presses to increa
 
 Loops are assigned to the red toggles and beats are in orange. The buttons are mapped to the left hand:
 
-|       |       | 	    | 	    |
+|  Use  | Your  | Left  | Hand  |
 | ----- |:-----:| -----:|------:|
 | **1**	| 2	    | 3     | **4** |
 | Q     | W     |	E   | R     |
