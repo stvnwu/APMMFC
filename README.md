@@ -3,6 +3,11 @@ A Poor Man's MIDI Fighter Controller.
 
 Final Project for UC Berkeley's MUSIC 158: Musical Applications of Computers and Related Technologies. Written entirely in MAX.
 
+#Getting Started
+
+Clone the folder. Open the `final.maxpatch` and set to presentation mode.
+
+
 #About
 
 This is a 4x4 button sequencer that handles duration of button presses to increase the gain over a set period of time. There are three presets in genres of electronic music preset onto the board: electronic, chiptunes and EDM. 
