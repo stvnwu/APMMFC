@@ -13,10 +13,10 @@ Loops are assigned to the red toggles and beats are in orange. The buttons are m
 
 |  Use  | Your  | Left  | Hand  |
 | :---: |:-----:| :----:|:-----:|
-| **1**	| 2	    | 3     | **4** |
-| Q     | W     |	E   | R     |
-| A     | S     |	D   | F     |
-| **Z** | X     |	C   | **V** |
+| **1**	| `2`   | `3`   | **4** |
+| `Q`   | `W`   | `E`   | `R`   |
+| `A`   | `S`   | `D`   | `F`   |
+| **Z** | `X`   | `C`   | **V** |
 
 
 
