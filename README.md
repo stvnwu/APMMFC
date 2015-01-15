@@ -23,5 +23,5 @@ Loops are assigned to the red toggles and beats are in orange. The buttons are m
 
 #Mouse Input
 
-The right hand is optimized for mouse interaction. Holding down the 'SHIFT' key will allow the user to speed up or slow down audio playback by moving the mouse across the screen.
-Holding down the 'CTRL' key will pass the audio through a low-pass filter by moving the mouse up and down the screen.
+The right hand is optimized for mouse interaction. Holding down the `SHIFT` key will allow the user to speed up or slow down audio playback by moving the mouse across the screen.
+Holding down the `CTRL` key will pass the audio through a low-pass filter by moving the mouse up and down the screen.
